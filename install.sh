@@ -1,4 +1,4 @@
-sudo apt-get --yes --force-yes install htop
+sudo apt-get --yes --force-yes install htop nano
 sudo apt-get --yes --force-yes update
 sudo apt-get --yes --force-yes install \
     apt-transport-https \
